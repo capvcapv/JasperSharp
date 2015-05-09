@@ -1,0 +1,5 @@
+C:\Users\Carlos\documents\visual studio 2013\Projects\Construtec\JasperSharp\bin\Debug\JasperSharp.dll
+C:\Users\Carlos\documents\visual studio 2013\Projects\Construtec\JasperSharp\bin\Debug\JasperSharp.pdb
+C:\Users\Carlos\documents\visual studio 2013\Projects\Construtec\JasperSharp\obj\Debug\JasperSharp.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\documents\visual studio 2013\Projects\Construtec\JasperSharp\obj\Debug\JasperSharp.dll
+C:\Users\Carlos\documents\visual studio 2013\Projects\Construtec\JasperSharp\obj\Debug\JasperSharp.pdb
